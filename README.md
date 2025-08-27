@@ -36,3 +36,4 @@ pip install paramiko
   --days 14 \
   --dir /opt/mikrotik_backup/
 ```
+- The name of a backup conf file is consist from Mikrotik Identety and date
