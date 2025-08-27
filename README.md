@@ -24,9 +24,9 @@ Install dependencies:
 
 ```bash
 pip install paramiko
+```
 
-
-## Useage
+## Help
 ```bash
 ./mikrotik_backup.py \
   --ip 192.168.88.1 \
@@ -35,3 +35,4 @@ pip install paramiko
   --passwd secret123 \
   --days 14 \
   --dir /opt/mikrotik_backup/
+```
