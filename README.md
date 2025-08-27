@@ -28,7 +28,7 @@ pip install paramiko
 
 ## Help
 ```bash
-./mikrotik_backup.py \
+./mikrotik_backup_run.py \
   --ip 192.168.88.1 \
   --port 22 \
   --user admin \
